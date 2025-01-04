@@ -47,7 +47,7 @@ console.log(statee);
             <button className="oksubmit" >ok</button>
           </form>
         </div>
-      </div>
+      </div>c
     </div>
   );
 }
